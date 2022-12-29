@@ -10,7 +10,7 @@
   <a href="https://github.com/Quantizr/DungeonRoomsMod/releases/latest" target="_blank">
     <img alt="downloads" src="https://img.shields.io/github/downloads/Quantizr/DungeonRoomsMod/total?color=%239f00ff&style=for-the-badge" />
   </a>
-  <a href="https://discord.gg/kr2M7WutgJ" target="_blank">
+  <a href="https://discord.gg/pHrZKAm7f8" target="_blank">
     <img alt="discord" src="https://img.shields.io/discord/804143990869590066?color=%239f00ff&label=Discord&style=for-the-badge" />
   </a>
 </p>
@@ -31,7 +31,7 @@ Long Answer: https://quantizr.github.io/posts/is-it-bannable/
 
 
 ### Discord:
-[![Discord](https://img.shields.io/discord/804143990869590066?color=%239f00ff&label=Discord&style=for-the-badge)](https://discord.gg/7B5RbsArYK)
+[![Discord](https://img.shields.io/discord/804143990869590066?color=%239f00ff&label=Discord&style=for-the-badge)](https://discord.gg/pHrZKAm7f8)
 
 
 ### Hotkeys:
