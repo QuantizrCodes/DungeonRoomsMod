@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/QuantizrCodes/DungeonRoomsMod/releases/latest" target="_blank">
-    <img alt="version" src="https://img.shields.io/github/v/release/Quantizr/DungeonRoomsMod?color=%239f00ff&style=for-the-badge" />
+    <img alt="version" src="https://img.shields.io/github/v/release/QuantizrCodes/DungeonRoomsMod?color=%239f00ff&style=for-the-badge" />
   </a>
   <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html" target="_blank">
     <img alt="mcversion" src="https://img.shields.io/badge/MC%20Version-1.8.9-blue?color=%239f00ff&style=for-the-badge" />
